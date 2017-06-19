@@ -1,0 +1,194 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Drink Vegas</string>
+    <!-- Category titles[CHAR LIMIT=12] -->
+    <string name="category1">Bars</string>
+    <string name="category2">Entertainment</string>
+    <string name="category3">Lounges</string>
+    <string name="category4">Clubs</string>
+
+    <!-- Category Titles -->
+    <string name="CategoryTitle1">Bars</string>
+    <string name="CategoryTitle2">Entertainment</string>
+    <string name="CategoryTitle3">Lounges</string>
+    <string name="CategoryTitle4">Clubs</string>
+
+    <!-- Venue details
+         Venue name [CHAR LIMIT=20]
+         Venue price scale [CHAR LIMIT=5]
+         Venue Location [CHAR LIMIT=20]
+         Venue Offers [CHAR LIMIT=60]
+         Venue Description [CHAR LIMIT=110]-->
+
+    <!-- Bar 1 details -->
+    <string name="BarName1">The Chandelier Bar</string>
+    <string name="Bar$1">$$$$</string>
+    <string name="BarLocation1">Cosmopolitan</string>
+    <string name="BarOffers1">A different cocktail menu on each floor</string>
+    <string name="BarDescription1">A 3 tier venue, each with it\'s own feel, all encapsulated in an enormous chandelier.</string>
+
+    <!-- Bar 2 details -->
+    <string name="BarName2">The Griffin</string>
+    <string name="Bar$2">$$</string>
+    <string name="BarLocation2">Fremont St East</string>o
+    <string name="BarOffers2">Happy hour daily (17:00 - 20:00). Back room DJ starts at 22:00</string>
+    <string name="BarDescription2">Lit only by real fire, creating a unique ambience.  A separate rom for dancing attracts a diverse crowd.</string>
+
+    <!-- Bar 3 details -->
+    <string name="BarName3">Yardhouse</string>
+    <string name="Bar$3">$$$</string>
+    <string name="BarLocation3">The Linq</string>
+    <string name="BarOffers3">Happy Hour Mon-Fri 15:00-18:00 includes food and drinks</string>
+    <string name="BarDescription3">160 taps of imported, craft and specialty beers and a 130 item food menu. Large 1st floor patio.</string>
+
+    <!-- Bar 4 details -->
+    <string name="BarName4">5 O\'clock Somewhere</string>
+    <string name="Bar$4">$$</string>
+    <string name="BarLocation4">Flamingo</string>
+    <string name="BarOffers4">17:00-18:00 daily 5c beers. Happy hour 02:00-10:00 &amp; 17:00-19:00 daily</string>
+    <string name="BarDescription4">Beach themed mid-strip bar, with faux palm trees, tropical décor and an on-strip patio for people watching.</string>
+
+    <!-- Bar 5 details -->
+    <string name="BarName5">Coyote Ugly</string>
+    <string name="Bar$5">$$$</string>
+    <string name="BarLocation5">New York New York</string>
+    <string name="BarOffers5">Daily happy hour 18:00-21:00. Free line dancing lessons Tues &amp; Weds 19:00-20:00</string>
+    <string name="BarDescription5">The bar from the movie, with lady bartenders showcasing bar-top dancing and artistic pouring techniques.</string>
+
+    <!-- Bar 6 details -->
+    <string name="BarName6">AmeriCAN</string>
+    <string name="Bar$6">$$</string>
+    <string name="BarLocation6">The Linq</string>
+    <string name="BarOffers6">Free giant Jenga and Connect 4. BYO food</string>
+    <string name="BarDescription6">Nearly 70 canned beers from every U.S. state and some imports. Outdoor patio on The Linq Boulevard.</string>
+
+    <!-- Entertainment Bar 1 details -->
+    <string name="EntName1">The Piano Bar</string>
+    <string name="Ent$1">$$$</string>
+    <string name="EntLocation1">Harrah\'s</string>
+    <string name="EntOffers1">Big Elvis 14:00-18:00, Karaoke 18:00-21:00, Duelling Pianos 21:30-02:00</string>
+    <string name="EntDescription1">A full slate of live, interactive shows with a riotous party atmosphere.  Outside patio.</string>
+
+    <!-- Entertainment Bar 2 details -->
+    <string name="EntName2">Nine Fine Irishmen</string>
+    <string name="Ent$2">$$$</string>
+    <string name="EntLocation2">New York New York</string>
+    <string name="EntOffers2">Happy hour Mon-Fri 14:00-17:00, nightly live music from 21:00</string>
+    <string name="EntDescription2">A piece of the Emerald Isle in the heart of Vegas, with indoor or al fresco Irish dining.</string>
+
+    <!-- Entertainment Bar 3 details -->
+    <string name="EntName3">Gilley\'s</string>
+    <string name="Ent$3">$$$</string>
+    <string name="EntLocation3">Treasure Island</string>
+    <string name="EntOffers3">Happy hours, line dance lessons, mechanical bull, karaoke &amp; live bands.</string>
+    <string name="EntDescription3">Inspired by the frontier days in the wild west, this fun country bar and BBQ brings plenty of yeeha to the Strip.</string>
+
+    <!-- Entertainment Bar 4 details -->
+    <string name="EntName4">Ellis Island</string>
+    <string name="Ent$4">$</string>
+    <string name="EntLocation4">Koval Lane</string>
+    <string name="EntOffers4">$2 beers all day, great value food &amp; karaoke from 21:00 daily</string>
+    <string name="EntDescription4">Vegas\' #1 Karaoke venue, in Nevada\'s #1 Brewery, with the best value food in Vegas.</string>
+
+    <!-- Entertainment Bar 5 details -->
+    <string name="EntName5">Carnaval Court</string>
+    <string name="Ent$5">$$$</string>
+    <string name="EntLocation5">Harrah\'s</string>
+    <string name="EntOffers5">Happy hour 11:00-15:00 Sun-Thur. Flair bartender shows daily</string>
+    <string name="EntDescription5">An open-air street party at the center of the Strip. Day and night, you can enjoy music from live bands and DJs.</string>
+
+    <!-- Entertainment Bar 6 details -->
+    <string name="EntName6">Redneck Riviera</string>
+    <string name="Ent$6">$$</string>
+    <string name="EntLocation6">Bally\'s Grand Bazaar</string>
+    <string name="EntOffers6">Live country music nightly</string>
+    <string name="EntDescription6">John Rich\'s quirky country bar. Great music, great drinks, great people!</string>
+
+    <!-- Lounge 1 details -->
+    <string name="LoungeName1">Koi</string>
+    <string name="Lounge$1">$$$$</string>
+    <string name="LoungeLocation1">PH</string>
+    <string name="LoungeOffers1">Happy hour 17:00-19:00 daily including Japanese food and drinks</string>
+    <string name="LoungeDescription1">Chic cocktail lounge with polished, Asian inspired decor and subdued lighting.</string>
+
+    <!-- Lounge 2 details -->
+    <string name="LoungeName2">Skyfall Lounge</string>
+    <string name="Lounge$2">$$$$</string>
+    <string name="LoungeLocation2">Mandalay Bay</string>
+    <string name="LoungeOffers2">Sunset hour food and drinks specials 17:00-19:00 daily</string>
+    <string name="LoungeDescription2">180-degree views of the city along with an evolving nightlife experience that gradually increases in tempo into the night.</string>
+
+    <!-- Lounge 3 details -->
+    <string name="LoungeName3">Alibi</string>
+    <string name="Lounge$3">$$$$</string>
+    <string name="LoungeLocation3">Aria</string>
+    <string name="LoungeOffers3">Open 12:00-05:00 daily. Food available</string>
+    <string name="LoungeDescription3">The perfect convergence of premium cocktails and highly styled opulence.</string>
+
+    <!-- Lounge 4 details -->
+    <string name="LoungeName4">Rhumbar</string>
+    <string name="Lounge$4">$$$</string>
+    <string name="LoungeLocation4">Mirage</string>
+    <string name="LoungeOffers4">Happy hour 14:00-18:00 daily on drinks and drink/cigar pairings</string>
+    <string name="LoungeDescription4">Indoor and outdoor lounge with a chillout vibe, specialising in rum, cigars and hookah.</string>
+
+    <!-- Lounge 5 details -->
+    <string name="LoungeName5">Rush</string>
+    <string name="Lounge$5">$$$</string>
+    <string name="LoungeLocation5">Golden Nugget</string>
+    <string name="LoungeOffers5">Live entertainment nightly</string>
+    <string name="LoungeDescription5">Creative cocktails, live bands, comfy seating and blackjack tables.</string>
+
+    <!-- Lounge 6 details -->
+    <string name="LoungeName6">107 Sky Lounge</string>
+    <string name="Lounge$6">$$$</string>
+    <string name="LoungeLocation6">Stratosphere</string>
+    <string name="LoungeOffers6">Happy hour 16:00-19:00 &amp; 22:30-01:00 daily</string>
+    <string name="LoungeDescription6">Sleek, DJ fuelled lounge offering drinks, food and stunning views from the 107th floor.</string>
+
+    <!-- Club 1 details -->
+    <string name="ClubName1">Hakkasan</string>
+    <string name="Club$1">$$$$$</string>
+    <string name="ClubLocation1">MGM Grand</string>
+    <string name="ClubOffers1">Michelin-starred Chefs &amp; superstar DJs</string>
+    <string name="ClubDescription1">A 360-degree experience with fine dining &amp; unparalleled entertainment over 5 levels.</string>
+
+    <!-- Club 2 details -->
+    <string name="ClubName2">Hyde</string>
+    <string name="Club$2">$$$$</string>
+    <string name="ClubLocation2">Bellagio</string>
+    <string name="ClubOffers2">Happy hour Weds 17:00-22:00 (wine only)</string>
+    <string name="ClubDescription2">A seamless indoor-outdoor Nightclub, with an expansive terrace overlooking the stunning Bellagio Fountains.</string>
+
+    <!-- Club 3 details -->
+    <string name="ClubName3">Marquee</string>
+    <string name="Club$3">$$$$$</string>
+    <string name="ClubLocation3">Cosmopolitan</string>
+    <string name="ClubOffers3">Atttracts the world\'s best DJs, performers, and celebrities</string>
+    <string name="ClubDescription3">The ultimate sensory experience with state-of-the-art audiovisual effects &amp; sensuous décor.</string>
+
+    <!-- Club 4 details -->
+    <string name="ClubName4">Drai\'s</string>
+    <string name="Club$4">$$$$$</string>
+    <string name="ClubLocation4">The Cromwell</string>
+    <string name="ClubOffers4">Package deals available</string>
+    <string name="ClubDescription4">Indoor-outdoor panoramic partying, 11 stories high.  Luxe design with state-of-the-art lighting technology.</string>
+
+    <!-- Club 5 details -->
+    <string name="ClubName5">Omnia</string>
+    <string name="Club$5">$$$$$</string>
+    <string name="ClubLocation5">Caesar\'s Palace</string>
+    <string name="ClubOffers5">World\'s leading superstar DJs. VIP Bar Card options available</string>
+    <string name="ClubDescription5">Multi-level venue with a seductive ultra-lounge, a high-energy main room, mezzanine &amp; a rooftop garden.</string>
+
+    <!-- Club 6 details -->
+    <string name="ClubName6">XS</string>
+    <string name="Club$6">$$$$$</string>
+    <string name="ClubLocation6">Wynn</string>
+    <string name="ClubOffers6">Live performances from global artists</string>
+    <string name="ClubDescription6">Indoor-outdoor venue with cutting-edge technology production, light shows  &amp; pyrotechnics.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
